@@ -1,0 +1,12 @@
+future
+requests
+pandas
+numpy
+scipy
+tensorflow
+keras
+ipython
+jupyter
+six
+protobuf
+wheel
