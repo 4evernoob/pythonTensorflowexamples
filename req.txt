@@ -6,7 +6,6 @@ scipy
 tensorflow
 keras
 ipython
-jupyter
 six
 protobuf
 wheel
